@@ -21,6 +21,15 @@ permalink: /
 ## Where do I begin?
 Take a look at our [Getting Started](./getting-started.markdown) page.
 
+## Documentation Sections
+Explore the different parts of the ScaleformUI API:
+- **[Getting Started](./getting-started.markdown)**: Learn how to install and set up ScaleformUI in your project.
+- **[UIMenu API](./UIMenu/index.md)**: Create and manage standard menus, items, panels, and windows.
+- **[Scaleforms API](./Scaleforms/index.md)**: Use in-game scaleforms such as countdowns, feeds, and warning screens.
+- **[HUD and Notifications API](./hud/index.md)**: Manage notifications, markers, and 3D text drawing.
+- **[Radial Menu API](./RadialMenu/index.md)**: Create and customise radial menus.
+- **[Radio Menu API](./RadioMenu/index.md)**: Create and customise radio menus.
+
 ## Features
 - Support for simple buttons, checkboxes and lists.
 - Support for custom banners from game sprites and your own textures.
