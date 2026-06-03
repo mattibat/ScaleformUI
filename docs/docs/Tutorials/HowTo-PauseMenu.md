@@ -1,7 +1,5 @@
 ---
-layout: default
 title: How to Create a Pause Menu
-parent: Pause Menu
 show_buttons: false
 show_all_code: false
 ---
