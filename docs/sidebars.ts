@@ -97,36 +97,30 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Specialized Menus',
+      label: 'PauseMenu',
       items: [
-        {
-          type: 'category',
-          label: 'PauseMenu',
-          items: [
-            'PauseMenu/index',
-            'PauseMenu/MainView',
-            'PauseMenu/TabView',
-            'PauseMenu/Items'
-          ]
-        },
-        {
-          type: 'category',
-          label: 'RadialMenu',
-          items: [
-            'RadialMenu/index',
-            'RadialMenu/radialsegment',
-            'RadialMenu/segmentitem'
-          ]
-        },
-        {
-          type: 'category',
-          label: 'RadioMenu',
-          items: [
-            'RadioMenu/index',
-            'RadioMenu/radioitem'
-          ]
-        }
-      ],
+        'PauseMenu/index',
+        'PauseMenu/MainView',
+        'PauseMenu/TabView',
+        'PauseMenu/Items'
+      ]
+    },
+    {
+      type: 'category',
+      label: 'RadialMenu',
+      items: [
+        'RadialMenu/index',
+        'RadialMenu/radialsegment',
+        'RadialMenu/segmentitem'
+      ]
+    },
+    {
+      type: 'category',
+      label: 'RadioMenu',
+      items: [
+        'RadioMenu/index',
+        'RadioMenu/radioitem'
+      ]
     },
     {
       type: 'category',
