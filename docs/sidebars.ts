@@ -51,7 +51,6 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: 'Items',
           items: [
-            'UIMenu/Items/index',
             'UIMenu/Items/uimenuitem',
             'UIMenu/Items/uimenucheckboxitem',
             'UIMenu/Items/uimenulistitem',
@@ -66,7 +65,6 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: 'Panels',
           items: [
-            'UIMenu/Panels/index',
             'UIMenu/Panels/uimenucolorpanel',
             'UIMenu/Panels/uimenuvehiclecolourpickerpanel',
             'UIMenu/Panels/uimenugridpanel',
@@ -78,7 +76,6 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: 'Windows',
           items: [
-            'UIMenu/Windows/index',
             'UIMenu/Windows/uimenuheritagewindow',
             'UIMenu/Windows/uimenudetailswindow'
           ]
@@ -87,7 +84,6 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: 'Side Panels',
           items: [
-            'UIMenu/Side Panels/index',
             'UIMenu/Side Panels/uimenufreemodedetailsitem',
             'UIMenu/Side Panels/uimissiondetailspanel',
             'UIMenu/Side Panels/uivehiclecolourpickerpanel'
@@ -107,7 +103,6 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: 'SubmenuTab Items',
           items: [
-            'PauseMenu/SubmenuTabItems/index',
             'PauseMenu/SubmenuTabItems/tableftitem',
             'PauseMenu/SubmenuTabItems/statstabitem',
             'PauseMenu/SubmenuTabItems/keymapitem'
@@ -117,7 +112,6 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: 'Settings Items',
           items: [
-            'PauseMenu/SettingsItems/index',
             'PauseMenu/SettingsItems/settingsitem',
             'PauseMenu/SettingsItems/settingscheckboxitem',
             'PauseMenu/SettingsItems/settingslistitem',
