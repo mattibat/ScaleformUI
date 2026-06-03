@@ -2,8 +2,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-import remarkEnumAutolink from './remark-enum-autolink';
-
 const config: Config = {
   title: 'ScaleformUI',
   tagline: 'A GTA V Scaleform library for FiveM',
@@ -52,7 +50,6 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           editUrl:
             'https://github.com/manups4e/ScaleformUI/tree/main/docs/',
-          remarkPlugins: [remarkEnumAutolink],
         },
         blog: false,
         theme: {
