@@ -66,10 +66,6 @@ const config: Config = {
     },
     navbar: {
       title: 'ScaleformUI',
-      logo: {
-        alt: 'ScaleformUI Logo',
-        src: 'img/logo.svg',
-      },
       items: [
         {
           type: 'docSidebar',
