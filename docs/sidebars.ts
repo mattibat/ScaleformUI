@@ -102,7 +102,30 @@ const sidebars: SidebarsConfig = {
         'PauseMenu/index',
         'PauseMenu/MainView',
         'PauseMenu/TabView',
-        'PauseMenu/Items'
+        'PauseMenu/pausemenuitem',
+        {
+          type: 'category',
+          label: 'SubmenuTab Items',
+          items: [
+            'PauseMenu/SubmenuTabItems/index',
+            'PauseMenu/SubmenuTabItems/tableftitem',
+            'PauseMenu/SubmenuTabItems/statstabitem',
+            'PauseMenu/SubmenuTabItems/keymapitem'
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Settings Items',
+          items: [
+            'PauseMenu/SettingsItems/index',
+            'PauseMenu/SettingsItems/settingsitem',
+            'PauseMenu/SettingsItems/settingscheckboxitem',
+            'PauseMenu/SettingsItems/settingslistitem',
+            'PauseMenu/SettingsItems/settingsprogressitem',
+            'PauseMenu/SettingsItems/settingsslideritem',
+            'PauseMenu/SettingsItems/settingsseparatoritem'
+          ]
+        }
       ]
     },
     {
