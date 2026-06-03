@@ -49,5 +49,5 @@ Explore the different parts of the ScaleformUI API:
 - Timer bars easy and for everyone!
 
 ## Special Thanks
-Thanks to @PhilippRendel for helping out on Lua and making it look a lot more easy to use, thanks man.
-Thanks to @frflo for the new awesome and updated docs 
+- @PhilippRendel for helping out on Lua and making it look a lot more easy to use, thanks man.
+- @frflo for the new awesome and updated docs 
