@@ -50,3 +50,4 @@ Explore the different parts of the ScaleformUI API:
 
 ## Special Thanks
 Thanks to @PhilippRendel for helping out on Lua and making it look a lot more easy to use, thanks man.
+Thanks to @frflo for the new awesome and updated docs 
